@@ -1,0 +1,87 @@
+.link {
+    justify-content: space-between;
+    text-align: center;
+    width: 20%;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 2% 0% 2% 0%;
+}
+
+.link a {
+    text-decoration: none;
+}
+
+.img1 {
+    margin: 2% 19.2%;
+}
+
+.btn {
+    margin: 20px;
+    /* width: 40px; */
+    height: 70px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+.button1 {
+    background-color: rgb(9, 187, 98);
+    color: aliceblue;
+    height: 40px ;
+    width: 80px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.button2 {
+    border-color: rgb(9, 187, 98);
+    color: black;
+    height: 40px ;
+    width: 80px;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.carousel-inner {
+    border-radius: 20px;
+    padding: 2% 5% 2% 5%;
+}
+
+.carousel-inner img {
+    border-radius: 20px;
+}
+.carousel-item {
+    height: 700px;
+}
+
+.isi {
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+    border-radius: 15px;
+    align-items: center;
+    margin: 0px 200px 0px 200px;
+    width: 80%;
+    height: 120px;
+    background-color: rgb(9, 187, 98);
+    font-weight: bold;
+}
+
+.kotak {
+    margin: 50px ;
+    align-items: center;
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+}
+
+.card{
+    border-radius: 20px;
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 120px;
+    gap: 20px;
+
+}
